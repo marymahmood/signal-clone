@@ -6,7 +6,7 @@ Live site - https://slack-clone-fd.web.app/
 
 Download Expo Go on Android or Camera App on iOS and scan the QR code to open the app on your phone. 
 
-![signal-clone-pic](https://user-images.githubusercontent.com/86771291/138257325-789adff4-6808-4cc3-bf8b-7652dd6be9eb.png)
+![signal-clone-pic](https://user-images.githubusercontent.com/86771291/138261510-c9b32b3a-e9b4-4cea-8463-6ce5e3fff6ff.png)
 
 # Features
 
