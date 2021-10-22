@@ -150,6 +150,7 @@ const styles = StyleSheet.create({
         flex: 1,        
     },
     footer: {
+        backgroundColor: 'white',
         flexDirection: 'row',
         alignItems: 'center',
         width: '100%',
