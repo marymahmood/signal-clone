@@ -2,7 +2,9 @@
 
 Signal clone made using React Native, Expo, Firebase Authentication, Firestore Database, Nav
 
-Live site - https://expo.dev/@marymahmood/projects/chatapp
+Live site - https://chat-app-e5950.web.app/
+
+Expo site - https://expo.dev/@marymahmood/projects/chatapp
 
 Download Expo Go on Android or Camera App on iOS and scan the QR code to open the app on your phone. 
 
